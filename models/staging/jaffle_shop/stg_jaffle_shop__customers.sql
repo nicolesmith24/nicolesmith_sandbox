@@ -20,3 +20,5 @@ transformed as (
 )
 
 select * from transformed
+
+-- adding comment to test slim ci
